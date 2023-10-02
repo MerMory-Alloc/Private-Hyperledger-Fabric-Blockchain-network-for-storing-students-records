@@ -16,7 +16,7 @@ The main objectives of this project are to:
 ## Project Description
 Its all described in this project report [here](mem.pdf)
 
-here is also the presentation of the project  [here](Building a private blockchain for storing student records.pdf)
+here is also the presentation of the project  [here](<Building a private blockchain for storing student records.pdf>)
 
 ## Contributing
 
